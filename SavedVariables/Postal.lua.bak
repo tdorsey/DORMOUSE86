@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Ethelflavia|Kilrogg|Alliance|1|PALADIN", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Ethelflavia - Kilrogg"] = "Ethelflavia - Kilrogg",
+	},
+	["profiles"] = {
+		["Ethelflavia - Kilrogg"] = {
+		},
+	},
+}

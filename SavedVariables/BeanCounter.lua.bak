@@ -1,0 +1,51 @@
+
+BeanCounterDB = {
+	["Kilrogg"] = {
+		["Ethelflavia"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 560.0000610351563,
+	["Kilrogg"] = {
+		["Ethelflavia"] = {
+			["tasks.sortArray"] = 1404271965,
+			["version"] = 3.03,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1404271965,
+			["wealth"] = 0,
+			["tasks.prunePostedDB"] = 1404271965,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 764.9999389648438,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil

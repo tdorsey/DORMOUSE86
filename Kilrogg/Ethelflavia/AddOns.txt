@@ -1,0 +1,10 @@
+BigWigs: disabled
+Grid: disabled
+LittleWigs: disabled
+Clique: disabled
+Decursive: disabled
+LostTreasureCheck: disabled
+MoveAnything: disabled
+LostTreasures: disabled
+ShadowedUF_InlineAbsorb: enabled
+ShadowedUnitFrames: disabled

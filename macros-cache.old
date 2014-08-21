@@ -1,0 +1,54 @@
+VER 3 0000000000000002 "Bear" "INV_Misc_QuestionMark"
+#show Dire Bear Form
+/cast !Dire Bear Form
+END
+VER 3 0000000000000006 "Beserk" "INV_MISC_QUESTIONMARK"
+#show Mangle
+/cast Berserking(Racial)
+/cast Berserk
+/cast Mangle
+END
+VER 3 0000000000000005 "critter" "INV_Misc_QuestionMark"
+/tar Emerald Shale Hatchling
+/tar Crimson Shale Hatchling
+/tar Dung Beetle
+/tar Leopard Scorpid
+/tar Sidewinder
+/tar Desert Spider
+/cast moonfire
+END
+VER 3 0000000000000001 "DE" "INV_Misc_QuestionMark"
+#show Disenchant
+/cast Disenchant
+/use Stoneguard Band
+/use Crystal Chalcedony Amulet
+/use Crystal Citrine Necklace
+/use Bloodstone Band
+/use Sun Rock Ring
+/use Arctic Boots
+END
+VER 3 0000000000000003 "Innervate" "INV_Misc_QuestionMark"
+#show Innervate
+/tar Ag
+/cast Innervate
+/g Casting Innervate
+END
+VER 3 0000000000000004 "Mangle" "INV_Misc_QuestionMark"
+#show Mangle
+/cast Mangle(Cat Form)
+END
+VER 3 0000000000000007 "Timeless isle ma" "INV_MISC_QUESTIONMARK"
+/way 58.6, 60.3 Gleaming Crane Statue
+/way 54, 47.2 Drop from hanging ropes
+/way 49.8, 69.4 Hop across pillars
+/way 70.6, 81 Climb pirate mast
+/way 22.6, 58.8 Underwater entrance west
+/way 40.4, 93 Needs key
+/way 47, 26.8 Blazing Chest
+/way 59.9, 31.4 Ord
+END
+VER 3 0000000000000008 "Trinkets" "ACHIEVEMENT_GUILDPERK_MRPOPULARITY"
+#showtooltip Scroll of Revered Ancestors
+/use 15
+/use 14
+END

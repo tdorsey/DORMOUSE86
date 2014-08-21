@@ -1,0 +1,35 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Ethelflavia - Kilrogg"] = "Ethelflavia - Kilrogg",
+	},
+	["gold"] = {
+		["Kilrogg"] = {
+			["Ethelflavia"] = 0,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["global"] = {
+		["aprilFools"] = true,
+	},
+	["profiles"] = {
+		["Ethelflavia - Kilrogg"] = {
+			["movers"] = {
+				["LeftChatMover"] = "BOTTOMLEFTUIParentBOTTOMLEFT019",
+				["RightChatMover"] = "BOTTOMRIGHTUIParentBOTTOMRIGHT019",
+			},
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Ethelflavia - Kilrogg"] = "Ethelflavia - Kilrogg",
+	},
+	["profiles"] = {
+		["Ethelflavia - Kilrogg"] = {
+		},
+	},
+}
