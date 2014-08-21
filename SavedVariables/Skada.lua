@@ -12,7 +12,8 @@ SkadaDB = {
 		["Default"] = {
 			["windows"] = {
 				{
-					["y"] = -48.33351135253906,
+					["barslocked"] = true,
+					["y"] = -195.8333129882813,
 					["x"] = 0,
 					["point"] = "RIGHT",
 				}, -- [1]
