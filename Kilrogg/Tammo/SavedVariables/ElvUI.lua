@@ -224,23 +224,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_PARTY_LEADER",
 		},
-		["1408657552.55"] = {
-			"we all good tammo", -- [1]
-			"Thraloril-Proudmoore", -- [2]
-			"Orcish", -- [3]
+		["1408654406.194"] = {
+			"ah, you had wts. my bad", -- [1]
+			"Rúhk-Kilrogg", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thraloril-Proudmoore", -- [5]
+			"Rúhk", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			140, -- [11]
-			"0x030000000892AD18", -- [12]
+			581, -- [11]
+			"0x0300000008F3C785", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_PARTY_LEADER",
+			[20] = "CHAT_MSG_WHISPER_INFORM",
 		},
 		["1408654391.576"] = {
 			"nvm i'm tryin to buy them", -- [1]
@@ -296,23 +296,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_PARTY",
 		},
-		["1408657493.461"] = {
-			"probably gonna be a solid hour or so, just an fyi", -- [1]
-			"Tammo-Kilrogg", -- [2]
-			"Orcish", -- [3]
+		["1408653380.539"] = {
+			"yes, there are 3 sets of tokens. you have fetch quests in between, 20 sigils, 20 secrets, 12 runestones", -- [1]
+			"Junebuggles-Kilrogg", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tammo", -- [5]
+			"Junebuggles", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			123, -- [11]
-			"0x03000000092C295D", -- [12]
+			405, -- [11]
+			"0x030000000984E93F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_PARTY",
+			[20] = "CHAT_MSG_WHISPER_INFORM",
 		},
 		["1408657029.582"] = {
 			"i hate those undead bitches", -- [1]
@@ -332,23 +332,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_PARTY",
 		},
-		["1408653380.539"] = {
-			"yes, there are 3 sets of tokens. you have fetch quests in between, 20 sigils, 20 secrets, 12 runestones", -- [1]
-			"Junebuggles-Kilrogg", -- [2]
-			"", -- [3]
+		["1408657493.461"] = {
+			"probably gonna be a solid hour or so, just an fyi", -- [1]
+			"Tammo-Kilrogg", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Junebuggles", -- [5]
+			"Tammo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			405, -- [11]
-			"0x030000000984E93F", -- [12]
+			123, -- [11]
+			"0x03000000092C295D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER_INFORM",
+			[20] = "CHAT_MSG_PARTY",
 		},
 		["1408654339.617"] = {
 			"pricing?", -- [1]
@@ -368,23 +368,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_WHISPER_INFORM",
 		},
-		["1408654406.194"] = {
-			"ah, you had wts. my bad", -- [1]
-			"Rúhk-Kilrogg", -- [2]
-			"", -- [3]
+		["1408657552.55"] = {
+			"we all good tammo", -- [1]
+			"Thraloril-Proudmoore", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Rúhk", -- [5]
+			"Thraloril-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			581, -- [11]
-			"0x0300000008F3C785", -- [12]
+			140, -- [11]
+			"0x030000000892AD18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER_INFORM",
+			[20] = "CHAT_MSG_PARTY_LEADER",
 		},
 	},
 }

@@ -40,6 +40,6 @@ AmrLogData = {
 	["_autoLog"] = {
 		[1136] = "disabled",
 	},
-	["_lastZone"] = "Northrend",
 	["_lastDiff"] = 0,
+	["_lastZone"] = "Northrend",
 }
