@@ -4,9 +4,6 @@ WeakAurasSaved = {
 	},
 	["registered"] = {
 	},
-	["login_squelch_time"] = 10,
-	["tempIconCache"] = {
-	},
 	["talent_cache"] = {
 		["HUNTER"] = {
 		},
@@ -20,7 +17,7 @@ WeakAurasSaved = {
 		},
 		["WARLOCK"] = {
 		},
-		["SHAMAN"] = {
+		["PALADIN"] = {
 		},
 		["DEATHKNIGHT"] = {
 		},
@@ -100,7 +97,10 @@ WeakAurasSaved = {
 		},
 		["MONK"] = {
 		},
-		["PALADIN"] = {
+		["SHAMAN"] = {
 		},
 	},
+	["tempIconCache"] = {
+	},
+	["login_squelch_time"] = 10,
 }
