@@ -55,12 +55,12 @@ VER 3 010000000000000F "Tranquility" "INV_Misc_QuestionMark"
 /use Berserking
 /cast Tranquility
 END
-VER 3 0100000000000011 "VuhDoAuto1" "Spell_Holy_GreaterHeal"
+VER 3 0100000000000013 "VuhDoAuto1" "Spell_Holy_GreaterHeal"
 /click VDSTB
 /use [help,nodead,@mouseover] Wild Mushroom
 /use [dead,combat,@mouseover] Rebirth
 END
-VER 3 0100000000000012 "VuhDoAuto2" "Spell_Holy_GreaterHeal"
+VER 3 0100000000000014 "VuhDoAuto2" "Spell_Holy_GreaterHeal"
 /click VDSTB
 /use [help,nodead,@mouseover] Wild Mushroom: Bloom
 /use [dead,combat,@mouseover] Rebirth
