@@ -1,12 +1,14 @@
 
 ElvDB = {
 	["profileKeys"] = {
-		["Tammo - Kilrogg"] = "Tammo - Kilrogg",
+		["Tammogram - Kilrogg"] = "Tammo - Kilrogg",
 		["Ethelflavia - Kilrogg"] = "Ethelflavia - Kilrogg",
+		["Tammo - Kilrogg"] = "Tammo - Kilrogg",
 	},
 	["gold"] = {
 		["Kilrogg"] = {
-			["Tammo"] = 79514313,
+			["Tammo"] = 68515524,
+			["Tammogram"] = 39837824,
 			["Ethelflavia"] = 336,
 		},
 	},
@@ -15,18 +17,30 @@ ElvDB = {
 		},
 	},
 	["profiles"] = {
+		["Tammogram - Kilrogg"] = {
+			["currentTutorial"] = 2,
+		},
+		["Ethelflavia - Kilrogg"] = {
+			["movers"] = {
+				["LeftChatMover"] = "BOTTOMLEFTUIParentBOTTOMLEFT019",
+				["RightChatMover"] = "BOTTOMRIGHTUIParentBOTTOMRIGHT019",
+			},
+		},
 		["Tammo - Kilrogg"] = {
 			["currentTutorial"] = 2,
 			["general"] = {
+				["autoAcceptInvite"] = true,
+				["bottomPanel"] = false,
 				["valuecolor"] = {
-					["b"] = 0.819,
-					["g"] = 0.513,
 					["r"] = 0.09,
+					["g"] = 0.513,
+					["b"] = 0.819,
 				},
+				["vendorGrays"] = true,
 				["bordercolor"] = {
-					["b"] = 0.31,
-					["g"] = 0.31,
 					["r"] = 0.31,
+					["g"] = 0.31,
+					["b"] = 0.31,
 				},
 			},
 			["movers"] = {
@@ -38,23 +52,23 @@ ElvDB = {
 				["ElvUF_Raid10Mover"] = "BOTTOMRIGHTElvUIParentBOTTOMLEFT733.33338928223450",
 				["BossButton"] = "BOTTOMElvUIParentBOTTOM0284",
 				["ElvAB_5"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT4110",
-				["ElvUF_TargetTargetMover"] = "BOTTOMElvUIParentBOTTOM0213",
-				["LeftChatMover"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT-3-5",
-				["ElvAB_3"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT41167",
-				["ElvUF_PartyMover"] = "BOTTOMRIGHTElvUIParentBOTTOMLEFT733.33338928223450",
-				["ShiftAB"] = "TOPLEFTElvUIParentTOPLEFT-44",
-				["WatchFrameMover"] = "TOPRIGHTElvUIParentTOPRIGHT-4-279",
-				["ElvUF_FocusMover"] = "BOTTOMElvUIParentBOTTOM0432",
-				["ElvUF_TargetCastbarMover"] = "BOTTOMRIGHTElvUIParentBOTTOMRIGHT-411189",
-				["TooltipMover"] = "BOTTOMRIGHTElvUIParentBOTTOMRIGHT-4184",
-				["TotemBarMover"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT502205",
-				["MicrobarMover"] = "TOPLEFTElvUIParentTOPLEFT458-4",
-				["ElvUF_PlayerMover"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT411135",
-				["ElvUF_Raid25Mover"] = "BOTTOMRIGHTElvUIParentBOTTOMLEFT733.33338928223450",
-				["RightChatMover"] = "BOTTOMRIGHTElvUIParentBOTTOMRIGHT00",
-				["ElvAB_6"] = "BOTTOMElvUIParentBOTTOM023",
-				["ElvUF_PetMover"] = "BOTTOMElvUIParentBOTTOM0176",
 				["ElvUF_TargetMover"] = "BOTTOMRIGHTElvUIParentBOTTOMRIGHT-411135",
+				["ElvUF_PlayerMover"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT411135",
+				["ElvUF_TargetCastbarMover"] = "BOTTOMRIGHTElvUIParentBOTTOMRIGHT-411189",
+				["RightChatMover"] = "BOTTOMRIGHTElvUIParentBOTTOMRIGHT00",
+				["ShiftAB"] = "TOPLEFTElvUIParentTOPLEFT-44",
+				["ElvUF_PetMover"] = "BOTTOMElvUIParentBOTTOM0176",
+				["ElvUF_FocusMover"] = "BOTTOMElvUIParentBOTTOM0432",
+				["ElvAB_6"] = "BOTTOMElvUIParentBOTTOM023",
+				["TooltipMover"] = "BOTTOMRIGHTElvUIParentBOTTOMRIGHT-4184",
+				["WatchFrameMover"] = "TOPRIGHTElvUIParentTOPRIGHT-4-279",
+				["MicrobarMover"] = "TOPLEFTElvUIParentTOPLEFT458-4",
+				["TotemBarMover"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT502205",
+				["ElvUF_Raid25Mover"] = "BOTTOMRIGHTElvUIParentBOTTOMLEFT733.33338928223450",
+				["ElvUF_PartyMover"] = "BOTTOMRIGHTElvUIParentBOTTOMLEFT733.33338928223450",
+				["ElvAB_3"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT41167",
+				["LeftChatMover"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT-3-5",
+				["ElvUF_TargetTargetMover"] = "BOTTOMElvUIParentBOTTOM0213",
 			},
 			["hideTutorial"] = 1,
 			["chat"] = {
@@ -72,12 +86,20 @@ ElvDB = {
 							["anchorPoint"] = "TOPRIGHT",
 							["enable"] = true,
 						},
+						["enable"] = false,
+						["growthDirection"] = "LEFT_UP",
+						["verticalSpacing"] = 9,
+						["positionOverride"] = "BOTTOMRIGHT",
+						["healPrediction"] = true,
+						["health"] = {
+							["frequentUpdates"] = true,
+						},
 						["rdebuffs"] = {
 							["enable"] = false,
 						},
-						["growthDirection"] = "LEFT_UP",
+						["height"] = 45,
 						["buffs"] = {
-							["xOffset"] = 50,
+							["enable"] = true,
 							["yOffset"] = -6,
 							["clickThrough"] = true,
 							["useBlacklist"] = false,
@@ -87,44 +109,7 @@ ElvDB = {
 							["useFilter"] = "TurtleBuffs",
 							["noConsolidated"] = false,
 							["sizeOverride"] = 22,
-							["enable"] = true,
-						},
-						["positionOverride"] = "BOTTOMRIGHT",
-						["healPrediction"] = true,
-						["health"] = {
-							["frequentUpdates"] = true,
-						},
-						["enable"] = false,
-						["height"] = 45,
-						["verticalSpacing"] = 9,
-					},
-					["raid40"] = {
-						["growthDirection"] = "LEFT_UP",
-						["enable"] = false,
-						["healPrediction"] = true,
-						["health"] = {
-							["frequentUpdates"] = true,
-						},
-						["height"] = 30,
-					},
-					["assist"] = {
-						["enable"] = false,
-					},
-					["player"] = {
-						["debuffs"] = {
-							["attachTo"] = "BUFFS",
-						},
-						["aurabar"] = {
-							["enable"] = false,
-						},
-						["buffs"] = {
-							["noDuration"] = false,
-							["attachTo"] = "FRAME",
-							["enable"] = true,
-						},
-						["castbar"] = {
-							["width"] = 406,
-							["height"] = 28,
+							["xOffset"] = 50,
 						},
 					},
 					["party"] = {
@@ -145,7 +130,19 @@ ElvDB = {
 						["power"] = {
 							["text_format"] = "",
 						},
-						["verticalSpacing"] = 9,
+						["buffs"] = {
+							["enable"] = true,
+							["yOffset"] = -6,
+							["clickThrough"] = true,
+							["useBlacklist"] = false,
+							["noDuration"] = false,
+							["playerOnly"] = false,
+							["perrow"] = 1,
+							["useFilter"] = "TurtleBuffs",
+							["noConsolidated"] = false,
+							["sizeOverride"] = 22,
+							["xOffset"] = 50,
+						},
 						["roleIcon"] = {
 							["position"] = "BOTTOMRIGHT",
 						},
@@ -159,18 +156,37 @@ ElvDB = {
 							["position"] = "TOP",
 						},
 						["height"] = 45,
+						["verticalSpacing"] = 9,
+					},
+					["raid40"] = {
+						["growthDirection"] = "LEFT_UP",
+						["enable"] = false,
+						["healPrediction"] = true,
+						["health"] = {
+							["frequentUpdates"] = true,
+						},
+						["height"] = 30,
+					},
+					["target"] = {
+						["aurabar"] = {
+							["enable"] = false,
+						},
+					},
+					["player"] = {
+						["debuffs"] = {
+							["attachTo"] = "BUFFS",
+						},
+						["aurabar"] = {
+							["enable"] = false,
+						},
 						["buffs"] = {
-							["xOffset"] = 50,
-							["yOffset"] = -6,
-							["clickThrough"] = true,
-							["useBlacklist"] = false,
-							["noDuration"] = false,
-							["playerOnly"] = false,
-							["perrow"] = 1,
-							["useFilter"] = "TurtleBuffs",
-							["noConsolidated"] = false,
-							["sizeOverride"] = 22,
 							["enable"] = true,
+							["noDuration"] = false,
+							["attachTo"] = "FRAME",
+						},
+						["castbar"] = {
+							["width"] = 406,
+							["height"] = 28,
 						},
 					},
 					["raid25"] = {
@@ -194,7 +210,7 @@ ElvDB = {
 						["enable"] = false,
 						["height"] = 45,
 						["buffs"] = {
-							["xOffset"] = 50,
+							["enable"] = true,
 							["yOffset"] = -6,
 							["clickThrough"] = true,
 							["useBlacklist"] = false,
@@ -204,13 +220,18 @@ ElvDB = {
 							["useFilter"] = "TurtleBuffs",
 							["noConsolidated"] = false,
 							["sizeOverride"] = 22,
-							["enable"] = true,
+							["xOffset"] = 50,
 						},
 					},
-					["target"] = {
-						["aurabar"] = {
-							["enable"] = false,
-						},
+					["assist"] = {
+						["enable"] = false,
+					},
+				},
+			},
+			["datatexts"] = {
+				["panels"] = {
+					["LeftChatDataPanel"] = {
+						["right"] = "AtlasLoot",
 					},
 				},
 			},
@@ -234,25 +255,23 @@ ElvDB = {
 			},
 			["layoutSet"] = "healer",
 		},
-		["Ethelflavia - Kilrogg"] = {
-			["movers"] = {
-				["LeftChatMover"] = "BOTTOMLEFTUIParentBOTTOMLEFT019",
-				["RightChatMover"] = "BOTTOMRIGHTUIParentBOTTOMRIGHT019",
-			},
-		},
 	},
 }
 ElvPrivateDB = {
 	["profileKeys"] = {
-		["Tammo - Kilrogg"] = "Tammo - Kilrogg",
+		["Tammogram - Kilrogg"] = "Tammogram - Kilrogg",
 		["Ethelflavia - Kilrogg"] = "Ethelflavia - Kilrogg",
+		["Tammo - Kilrogg"] = "Tammo - Kilrogg",
 	},
 	["profiles"] = {
-		["Tammo - Kilrogg"] = {
-			["theme"] = "classic",
+		["Tammogram - Kilrogg"] = {
 			["install_complete"] = "6.99995",
 		},
 		["Ethelflavia - Kilrogg"] = {
+		},
+		["Tammo - Kilrogg"] = {
+			["theme"] = "classic",
+			["install_complete"] = "6.99995",
 		},
 	},
 }

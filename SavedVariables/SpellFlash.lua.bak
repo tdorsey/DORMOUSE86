@@ -1,0 +1,17 @@
+
+SpellFlashAddonConfig = {
+	["SERVER"] = {
+		["us.logon.worldofwarcraft.com"] = {
+			["REALM"] = {
+				["Kilrogg"] = {
+					["PLAYER"] = {
+						["Tammo"] = {
+							["MODULE"] = {
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+}

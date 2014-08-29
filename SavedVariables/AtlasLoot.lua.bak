@@ -1,0 +1,27 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+			["profiles"] = {
+				["Tammogram - Kilrogg"] = {
+					["module"] = "AtlasLootMoP",
+					["instance"] = "SiegeofOrgrimmar",
+				},
+			},
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Tammogram - Kilrogg"] = "Tammogram - Kilrogg",
+	},
+	["profiles"] = {
+		["Tammogram - Kilrogg"] = {
+		},
+	},
+}

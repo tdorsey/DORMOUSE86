@@ -1,0 +1,73 @@
+VER 3 0100000000000001 "HT" "SPELL_NATURE_HEALINGTOUCH"
+#showtooltip
+/cast [@mouseover,help,nodead][help,nodead][@player] Healing Touch
+END
+VER 3 0100000000000003 "InnervateVuhdo" "INV_Misc_QuestionMark"
+#show Innervate
+/cast [target=player] Innervate
+END
+VER 3 010000000000000D "IronbarkMO" "INV_MISC_QUESTIONMARK"
+#showtooltip Ironbark
+/cast [target=mouseover] Ironbark
+END
+VER 3 0100000000000004 "Mangle" "INV_Misc_QuestionMark"
+#show Mangle
+/cast Mangle(Cat Form)
+END
+VER 3 010000000000000C "NSHT" "INV_MISC_QUESTIONMARK"
+#showtooltip Nature's Swiftness
+/cast nature's swiftness
+/cast [target=mouseover] Healing Touch
+END
+VER 3 0100000000000010 "NV/TOL" "ABILITY_DRUID_IMPROVEDTREEFORM"
+#showtooltip Nature's Vigil
+/cast Incarnation
+/cast Nature's Vigil
+END
+VER 3 010000000000000E "Symbiosis no aur" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Symbiosis
+/cancelaura Ice Block
+/cancelaura Deterrence
+END
+VER 3 010000000000000A "test" "INV_STAFF_2H_PANDUNG_C_02"
+/way 58.6, 60.3 Gleaming Crane Statue
+/way 54, 47.2 Drop from hanging ropes
+/way 49.8, 69.4 Hop across pillars
+/way 70.6, 81 Climb pirate mast
+/way 22.6, 58.8 Underwater entrance west
+/way 40.4, 93 Needs key
+/way 47, 26.8 Blazing Chest
+/way 59.9, 31.4 Or
+END
+VER 3 0100000000000007 "Timeless isle ma" "INV_MISC_QUESTIONMARK"
+/way 58.6, 60.3 Gleaming Crane Statue
+/way 54, 47.2 Drop from hanging ropes
+/way 49.8, 69.4 Hop across pillars
+/way 70.6, 81 Climb pirate mast
+/way 22.6, 58.8 Underwater entrance west
+/way 40.4, 93 Needs key
+/way 47, 26.8 Blazing Chest
+/way 59.9, 31.4 Ord
+END
+VER 3 010000000000000F "Tranquility" "INV_Misc_QuestionMark"
+#showtooltip Tranquility
+/use Berserking
+/cast Tranquility
+END
+VER 3 0100000000000008 "VuhDoAuto1" "Spell_Holy_GreaterHeal"
+/click VDSTB
+/use [help,nodead,@mouseover] Wild Mushroom
+/use [dead,combat,@mouseover] Rebirth
+END
+VER 3 0100000000000009 "VuhDoAuto2" "Spell_Holy_GreaterHeal"
+/click VDSTB
+/use [help,nodead,@mouseover] Wild Mushroom: Bloom
+/use [dead,combat,@mouseover] Rebirth
+END
+VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000B "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

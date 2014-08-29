@@ -6,17 +6,25 @@ SkadaDB = {
 	},
 	["hasUpgraded"] = true,
 	["profileKeys"] = {
+		["Tammogram - Kilrogg"] = "Default",
 		["Tammo - Kilrogg"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["windows"] = {
 				{
-					["barslocked"] = true,
-					["y"] = -195.8333129882813,
+					["y"] = 178.3336639404297,
 					["x"] = 0,
-					["point"] = "RIGHT",
+					["mode"] = "DPS",
+					["point"] = "BOTTOMRIGHT",
 				}, -- [1]
+			},
+			["report"] = {
+				["mode"] = "Healing",
+			},
+			["reset"] = {
+				["leave"] = 2,
+				["join"] = 2,
 			},
 		},
 	},

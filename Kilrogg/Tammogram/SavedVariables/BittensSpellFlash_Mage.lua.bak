@@ -1,0 +1,11 @@
+
+CombustionMonitorSettings = {
+	["WindowPoints"] = {
+		{
+			["xoffset"] = 0,
+			["yoffset"] = 0,
+			["point"] = "CENTER",
+			["relativePoint"] = "CENTER",
+		}, -- [1]
+	},
+}
