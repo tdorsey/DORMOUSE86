@@ -1,3 +1,9 @@
+VER 3 010000000000000C "Frostbolt" "INV_MISC_QUESTIONMARK"
+#showtooltip Frostbolt
+/use Berserking
+/use Icy Veins
+/cast Frostbolt
+END
 VER 3 0100000000000003 "Frostbolt" "INV_MISC_QUESTIONMARK"
 #showtooltip Frostbolt
 /use Berserking
@@ -11,17 +17,9 @@ VER 3 0100000000000006 "Pyroblast" "INV_MISC_QUESTIONMARK"
 /cast Alter Time
 /cast Pyroblast
 END
-VER 3 0100000000000004 "VuhDoAuto1" "Spell_Holy_GreaterHeal"
-/click VDSTB
-/use [help,nodead,@mouseover] Wild Mushroom
-END
-VER 3 0100000000000005 "VuhDoAuto2" "Spell_Holy_GreaterHeal"
-/click VDSTB
-/use [help,nodead,@mouseover] Wild Mushroom: Bloom
-END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Wat
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

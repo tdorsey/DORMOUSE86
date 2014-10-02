@@ -39,9 +39,9 @@ VER 3 0000000000000009 "Decursive" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000000C "Frostbolt" "INV_MISC_QUESTIONMARK"
 #showtooltip Frostbolt
-/use Berserking
-/use Icy Veins
+/cast Berserking
 /cast Frostbolt
+/cast Freeze
 END
 VER 3 0000000000000003 "InnervateVuhdo" "INV_Misc_QuestionMark"
 #show Innervate

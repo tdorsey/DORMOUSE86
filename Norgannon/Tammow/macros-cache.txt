@@ -1,0 +1,42 @@
+VER 3 0100000000000002 "caster totem" "Ability_Creature_Cursed_02"
+/castsequence reset=4  Mana Spring Totem,  Wrath of Air Totem, Flametongue Totem,  Strength of Earth Totem
+END
+VER 3 0100000000000005 "Chain Lightning" "INV_Misc_QuestionMark"
+#show Chain Lightning
+/cast Elemental Mastery
+/cast Chain Lightning
+END
+VER 3 0100000000000003 "disease/poison" "INV_Misc_QuestionMark"
+#showtooltip Disease Cleansing Totem
+/cast Disease Cleansing Totem
+/cast [modifier: alt] Poison Cleansing Totem
+END
+VER 3 0100000000000006 "Lightning Bolt" "INV_Misc_QuestionMark"
+#show Lightning Bolt
+/use 13
+/use 14
+/cast Blood Fury
+/cast LIghtning Bolt
+END
+VER 3 0100000000000001 "melee totems" "Ability_Creature_Cursed_01"
+/castsequence reset=3 Windfury Totem, Strength of Earth Totem, Searing Totem
+END
+VER 3 0100000000000004 "ns heal" "INV_Misc_QuestionMark"
+#showtooltip Healing Wave
+/cast Nature's Swiftness
+/cast Healing Wave
+/cast [modifier: alt] Healing Wave
+END
+VER 3 0100000000000007 "Stormstrike" "INV_Misc_QuestionMark"
+#show Stormstrike
+/cast Blood Fury
+/use 13
+/use 14
+/cast Stormstrike
+END
+VER 3 0100000000000008 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000009 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

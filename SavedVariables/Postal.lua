@@ -1,41 +1,58 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Tammow - Norgannon"] = "Tammow - Norgannon",
+		["Ethelflavia - Kilrogg"] = "Ethelflavia - Kilrogg",
+		["Bedwards - Zul'jin"] = "Bedwards - Zul'jin",
+		["Tammogram - Kilrogg"] = "Tammogram - Kilrogg",
+		["Tammoslam - Kilrogg"] = "Tammoslam - Kilrogg",
+		["Highlw - Norgannon"] = "Highlw - Norgannon",
+		["Tammo - Kilrogg"] = "Tammo - Kilrogg",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Ethelflavia|Kilrogg|Alliance|1|PALADIN", -- [1]
-				"Tammogram|Kilrogg|Horde|90|MAGE", -- [2]
-				"Tammo|Kilrogg|Horde|90|DRUID", -- [3]
+				"Bedwards|Zul'jin|Horde|1|ROGUE", -- [1]
+				"Ethelflavia|Kilrogg|Alliance|1|PALADIN", -- [2]
+				"Highlw|Norgannon|Horde|1|WARRIOR", -- [3]
+				"Tammogram|Kilrogg|Horde|90|MAGE", -- [4]
+				"Tammoslam|Kilrogg|Horde|90|MONK", -- [5]
+				"Tammow|Norgannon|Horde|74|SHAMAN", -- [6]
+				"Tammo|Kilrogg|Horde|90|DRUID", -- [7]
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Tammogram - Kilrogg"] = "Tammogram - Kilrogg",
-		["Tammo - Kilrogg"] = "Tammo - Kilrogg",
-		["Ethelflavia - Kilrogg"] = "Ethelflavia - Kilrogg",
-	},
 	["profiles"] = {
+		["Tammow - Norgannon"] = {
+		},
+		["Ethelflavia - Kilrogg"] = {
+		},
+		["Bedwards - Zul'jin"] = {
+		},
 		["Tammogram - Kilrogg"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Tammoslam|Kilrogg|Horde", -- [1]
-					"Xrynaem|Kilrogg|Horde", -- [2]
-					"Tammow-Norgannon|Kilrogg|Horde", -- [3]
-					"Tammo|Kilrogg|Horde", -- [4]
+					"Tammo|Kilrogg|Horde", -- [1]
+					"Tammow-Norgannon|Kilrogg|Horde", -- [2]
+					"Tammoslam|Kilrogg|Horde", -- [3]
+					"Xrynaem|Kilrogg|Horde", -- [4]
 				},
 			},
+		},
+		["Tammoslam - Kilrogg"] = {
+		},
+		["Highlw - Norgannon"] = {
 		},
 		["Tammo - Kilrogg"] = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Kaledra|Kilrogg|Horde", -- [1]
-					"Tammow-Norgannon|Kilrogg|Horde", -- [2]
-					"Tammogram|Kilrogg|Horde", -- [3]
+					"Tammogram|Kilrogg|Horde", -- [2]
+					"Tammow-Norgannon|Kilrogg|Horde", -- [3]
 					"Xrynaem|Kilrogg|Horde", -- [4]
+					"Azhurial|Kilrogg|Horde", -- [5]
 				},
 			},
-		},
-		["Ethelflavia - Kilrogg"] = {
 		},
 	},
 }

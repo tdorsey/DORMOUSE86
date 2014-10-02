@@ -5,6 +5,13 @@ AtlasLootDB = {
 			["profiles"] = {
 				["Tammogram - Kilrogg"] = {
 					["module"] = "AtlasLootMoP",
+					["NEWpoint"] = {
+						nil, -- [1]
+						nil, -- [2]
+						"CENTER", -- [3]
+						0, -- [4]
+						2.999993324279785, -- [5]
+					},
 					["instance"] = "SiegeofOrgrimmar",
 				},
 				["Tammo - Kilrogg"] = {
@@ -13,8 +20,8 @@ AtlasLootDB = {
 						nil, -- [1]
 						nil, -- [2]
 						"CENTER", -- [3]
-						15.83330535888672, -- [4]
-						45.83320236206055, -- [5]
+						-219.6666717529297, -- [4]
+						69.33332061767578, -- [5]
 					},
 					["module"] = "AtlasLootMoP",
 				},
@@ -23,6 +30,28 @@ AtlasLootDB = {
 		["AtlasLootPanel"] = {
 		},
 		["WishList"] = {
+			["global"] = {
+				["data"] = {
+					["Normal"] = {
+						["Kilrogg"] = {
+							["Tammo"] = {
+								{
+									{
+										{
+											0, -- [1]
+											46159, -- [2]
+											"", -- [3]
+											"=q4=Conqueror's Nightsong Raiments", -- [4]
+											"=ds=Hodir", -- [5]
+											"NaxxDruidFeral#Normal", -- [6]
+										}, -- [1]
+									}, -- [1]
+								}, -- [1]
+							},
+						},
+					},
+				},
+			},
 		},
 		["Filter"] = {
 			["profiles"] = {
@@ -61,14 +90,27 @@ AtlasLootDB = {
 	},
 	["showWarning"] = true,
 	["profileKeys"] = {
+		["Tammow - Norgannon"] = "Tammow - Norgannon",
+		["Highlw - Norgannon"] = "Highlw - Norgannon",
 		["Tammogram - Kilrogg"] = "Tammogram - Kilrogg",
+		["Tammoslam - Kilrogg"] = "Tammoslam - Kilrogg",
+		["Bedwards - Zul'jin"] = "Bedwards - Zul'jin",
 		["Tammo - Kilrogg"] = "Tammo - Kilrogg",
 	},
 	["profiles"] = {
+		["Tammow - Norgannon"] = {
+		},
+		["Highlw - Norgannon"] = {
+		},
 		["Tammogram - Kilrogg"] = {
+		},
+		["Tammoslam - Kilrogg"] = {
+		},
+		["Bedwards - Zul'jin"] = {
 		},
 		["Tammo - Kilrogg"] = {
 			["EquipCompare"] = true,
+			["LastSearch"] = "ordos",
 			["CompareFrame"] = {
 				["lastSortType"] = "EXTRA",
 			},
