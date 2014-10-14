@@ -12,7 +12,7 @@ VER 3 010000000000000D "IronbarkMO" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000004 "Mangle" "INV_Misc_QuestionMark"
 #show Mangle
-/cast Mangle(Cat Form)
+/castsequence reset=target Mangle,Maul
 END
 VER 3 010000000000000C "NSHT" "INV_MISC_QUESTIONMARK"
 #showtooltip Nature's Swiftness
@@ -23,6 +23,10 @@ VER 3 0100000000000010 "NV/TOL" "ABILITY_DRUID_IMPROVEDTREEFORM"
 #showtooltip Nature's Vigil
 /cast Incarnation
 /cast Nature's Vigil
+END
+VER 3 0100000000000015 "Shit" "INV_MISC_QUESTIONMARK"
+#showtooltip Barkskin
+/castsequence  Barkskin, Might of Ursoc, Frenzied Regeneration,Bone Shield, Savage Defense
 END
 VER 3 010000000000000E "Symbiosis no aur" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -55,19 +59,19 @@ VER 3 010000000000000F "Tranquility" "INV_Misc_QuestionMark"
 /use Berserking
 /cast Tranquility
 END
-VER 3 0100000000000008 "VuhDoAuto1" "Spell_Holy_GreaterHeal"
+VER 3 0100000000000013 "VuhDoAuto1" "Spell_Holy_GreaterHeal"
 /click VDSTB
 /use [help,nodead,@mouseover] Wild Mushroom
 /use [dead,combat,@mouseover] Rebirth
 END
-VER 3 0100000000000009 "VuhDoAuto2" "Spell_Holy_GreaterHeal"
+VER 3 0100000000000014 "VuhDoAuto2" "Spell_Holy_GreaterHeal"
 /click VDSTB
 /use [help,nodead,@mouseover] Wild Mushroom: Bloom
 /use [dead,combat,@mouseover] Rebirth
 END
 VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+R2OH1LR1ET1IH1RM1HR2RM2PH2HR[x]3DT3PM3HR3WM4EM4WM4EM4PM5HR5SH5RM5DM5IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]3DH[x][x][x][x][x]0__[x][x]0__[x][x][x]0__[x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 010000000000000B "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NMouZelVexLarRedVaaKhaHalSta[x]UrjSéKalDecVynMcmQuiLivNymFilToxZugLan[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x]Kla[x][x]Sed[x][x][x]Gli[x][x][x][x][x]Cor[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

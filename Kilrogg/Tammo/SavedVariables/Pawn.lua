@@ -3,7 +3,7 @@ PawnOptions = {
 	["LastPlayerFullName"] = "Tammo-Kilrogg",
 	["LastKeybindingsSet"] = 1,
 }
-PawnWowheadScaleProviderOptions = {
+PawnStarterScaleProviderOptions = {
 	["LastClass"] = "DRUID",
-	["LastAdded"] = 3,
+	["LastAdded"] = 1,
 }

@@ -355,15 +355,15 @@ WeakAurasSaved = {
 				["icon"] = "Interface\\Icons\\Ability_Druid_ManaTree",
 			}, -- [10]
 			{
-				["name"] = "Incarnation",
-				["icon"] = "Interface\\Icons\\spell_druid_incarnation",
+				["name"] = "Incarnation: Tree of Life",
+				["icon"] = "Interface\\Icons\\Ability_Druid_ImprovedTreeForm",
 			}, -- [11]
 			{
 				["name"] = "Force of Nature",
 				["icon"] = "Interface\\Icons\\Ability_Druid_ForceofNature",
 			}, -- [12]
 			{
-				["name"] = "Disorienting Roar",
+				["name"] = "Incapacitating Roar",
 				["icon"] = "Interface\\Icons\\Ability_Druid_DemoralizingRoar",
 			}, -- [13]
 			{
@@ -386,6 +386,18 @@ WeakAurasSaved = {
 				["name"] = "Nature's Vigil",
 				["icon"] = "Interface\\Icons\\Achievement_Zone_Feralas",
 			}, -- [18]
+			{
+				["name"] = "Moment of Clarity",
+				["icon"] = "Interface\\Icons\\spell_druid_momentofclarity",
+			}, -- [19]
+			{
+				["name"] = "Germination",
+				["icon"] = "Interface\\Icons\\spell_druid_germination",
+			}, -- [20]
+			{
+				["name"] = "Rampant Growth",
+				["icon"] = "Interface\\Icons\\spell_druid_rampantgrowth",
+			}, -- [21]
 		},
 		["MONK"] = {
 			{

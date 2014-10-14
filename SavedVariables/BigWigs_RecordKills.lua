@@ -3,11 +3,11 @@ RKDatabase = {
 	["profileKeys"] = {
 		["Tammow - Norgannon"] = "Default",
 		["Tammo - Kilrogg"] = "Default",
-		["Bedwards - Zul'jin"] = "Default",
+		["Ethelflavia - Kilrogg"] = "Default",
 		["Tammogram - Kilrogg"] = "Default",
 		["Tammoslam - Kilrogg"] = "Default",
 		["Highlw - Norgannon"] = "Default",
-		["Ethelflavia - Kilrogg"] = "Default",
+		["Bedwards - Zul'jin"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -22,14 +22,14 @@ RKDatabase = {
 					["Durumu the Forgotten"] = {
 						[7] = 170,
 					},
-					["Council of Elders"] = {
-						[7] = 299,
+					["Ji-Kun"] = {
+						[7] = 171,
 					},
 					["Dark Animus"] = {
 						[7] = 222,
 					},
-					["Primordius"] = {
-						[7] = 191,
+					["Jin'rokh the Breaker"] = {
+						[7] = 190,
 					},
 					["Megaera"] = {
 						[7] = 441,
@@ -40,34 +40,33 @@ RKDatabase = {
 					["Lei Shen"] = {
 						[7] = 374,
 					},
+					["Primordius"] = {
+						[7] = 191,
+					},
 					["Horridon"] = {
 						[7] = 327,
 					},
-					["Jin'rokh the Breaker"] = {
-						[7] = 190,
-					},
-					["Ji-Kun"] = {
-						[7] = 171,
+					["Council of Elders"] = {
+						[7] = 299,
 					},
 				},
 				["Siege of Orgrimmar"] = {
 					["Galakras"] = {
 						[14] = 492,
+						[3] = 570,
 						[7] = 519,
 						[4] = 535,
-						[3] = 570,
-					},
-					["Siegecrafter Blackfuse"] = {
-						[3] = 280,
-						[14] = 239,
-						[4] = 266,
-						[7] = 287,
 					},
 					["Iron Juggernaut"] = {
 						[14] = 205,
+						[3] = 345,
 						[7] = 230,
 						[4] = 283,
-						[3] = 345,
+					},
+					["Garrosh Hellscream"] = {
+						[14] = 489,
+						[7] = 667,
+						[3] = 587,
 					},
 					["Sha of Pride"] = {
 						[14] = 208,
@@ -79,50 +78,51 @@ RKDatabase = {
 						[7] = 343,
 						[4] = 366,
 					},
+					["Paragons of the Klaxxi"] = {
+						[14] = 351,
+						[7] = 463,
+						[4] = 509,
+					},
 					["Kor'kron Dark Shaman"] = {
 						[14] = 193,
+						[3] = 402,
 						[7] = 221,
 						[4] = 306,
-						[3] = 402,
-					},
-					["Thok the Bloodthirsty"] = {
-						[3] = 397,
-						[14] = 263,
-						[4] = 417,
-						[7] = 413,
 					},
 					["Malkorok"] = {
 						[3] = 273,
-						[14] = 168,
-						[4] = 239,
 						[7] = 277,
+						[4] = 239,
+						[14] = 168,
 					},
-					["General Nazgrim"] = {
-						[3] = 430,
-						[7] = 231,
-						[4] = 376,
-						[14] = 244,
+					["Spoils of Pandaria"] = {
+						[3] = 481,
+						[7] = 484,
+						[4] = 462,
+						[14] = 389,
 					},
 					["Immerseus"] = {
 						[14] = 220,
 						[7] = 262,
 						[4] = 264,
 					},
-					["Spoils of Pandaria"] = {
-						[3] = 481,
-						[14] = 389,
-						[4] = 462,
-						[7] = 484,
+					["General Nazgrim"] = {
+						[3] = 430,
+						[14] = 244,
+						[7] = 231,
+						[4] = 376,
 					},
-					["Paragons of the Klaxxi"] = {
-						[14] = 351,
-						[7] = 463,
-						[4] = 509,
+					["Thok the Bloodthirsty"] = {
+						[3] = 397,
+						[7] = 413,
+						[4] = 417,
+						[14] = 263,
 					},
-					["Garrosh Hellscream"] = {
-						[14] = 489,
-						[7] = 667,
-						[3] = 587,
+					["Siegecrafter Blackfuse"] = {
+						[3] = 280,
+						[7] = 287,
+						[4] = 266,
+						[14] = 239,
 					},
 					["The Fallen Protectors"] = {
 						[14] = 261,
@@ -132,8 +132,8 @@ RKDatabase = {
 				},
 			},
 			["firstLoad"] = false,
-			["prevDiffShown"] = 4,
 			["diffShown"] = 4,
+			["prevDiffShown"] = 4,
 		},
 	},
 }
