@@ -1,108 +1,114 @@
 
 AmrBagItems = {
-	"|cffffffff|Hitem:101617:0:0:0:0:0:0:0:90:0:0|h[Deluxe Noodle Soup]|h|r", -- [1]
-	"|cffffffff|Hitem:79249:0:0:0:0:0:0:0:90:0:0|h[Tome of the Clear Mind]|h|r", -- [2]
-	"|cffffffff|Hitem:5512:0:0:0:0:0:0:219136384:90:0:0|h[Healthstone]|h|r", -- [3]
-	"|cffffffff|Hitem:20404:0:0:0:0:0:0:580588416:90:0:0|h[Encrypted Twilight Text]|h|r", -- [4]
-	"|cffffffff|Hitem:34498:0:0:0:0:0:0:1442614272:90:0:0|h[Paper Zeppelin Kit]|h|r", -- [5]
-	"|cffffffff|Hitem:6948:0:0:0:0:0:0:1711953920:90:0:0|h[Hearthstone]|h|r", -- [6]
-	"|cffffffff|Hitem:21229:0:0:0:0:0:0:1805761792:90:0:0|h[Qiraji Lord's Insignia]|h|r", -- [7]
-	"|cffffffff|Hitem:38682:0:0:0:0:0:0:0:90:0:0|h[Enchanting Vellum]|h|r", -- [8]
-	"|cffffffff|Hitem:77589:0:0:0:0:0:0:2146227584:90:0:0|h[G91 Landshark]|h|r", -- [9]
-	"|cffffffff|Hitem:74249:0:0:0:0:0:0:1595474688:90:0:0|h[Spirit Dust]|h|r", -- [10]
-	"|cffffffff|Hitem:74249:0:0:0:0:0:0:2019706752:90:0:0|h[Spirit Dust]|h|r", -- [11]
-	"|cffffffff|Hitem:74249:0:0:0:0:0:0:592385536:90:0:0|h[Spirit Dust]|h|r", -- [12]
+	"|cffffffff|Hitem:20404:0:0:0:0:0:0:580588416:90:0:0|h[Encrypted Twilight Text]|h|r", -- [1]
+	"|cffffffff|Hitem:8490:0:0:0:0:0:0:1118531328:90:0:0|h[Cat Carrier (Siamese)]|h|r", -- [2]
+	"|cffffffff|Hitem:79249:0:0:0:0:0:0:0:90:0:0|h[Tome of the Clear Mind]|h|r", -- [3]
+	"|cffffffff|Hitem:34498:0:0:0:0:0:0:1442614272:90:0:0|h[Paper Zeppelin Kit]|h|r", -- [4]
+	"|cffffffff|Hitem:6948:0:0:0:0:0:0:1711953920:90:0:0|h[Hearthstone]|h|r", -- [5]
+	"|cffffffff|Hitem:21229:0:0:0:0:0:0:1805761792:90:0:0|h[Qiraji Lord's Insignia]|h|r", -- [6]
+	"|cffffffff|Hitem:38682:0:0:0:0:0:0:0:90:0:0|h[Enchanting Vellum]|h|r", -- [7]
+	"|cffffffff|Hitem:77589:0:0:0:0:0:0:2146227584:90:0:0|h[G91 Landshark]|h|r", -- [8]
+	"|cffffffff|Hitem:74249:0:0:0:0:0:0:1595474688:90:0:0|h[Spirit Dust]|h|r", -- [9]
+	"|cffffffff|Hitem:74249:0:0:0:0:0:0:2019706752:90:0:0|h[Spirit Dust]|h|r", -- [10]
+	"|cffffffff|Hitem:74249:0:0:0:0:0:0:592385536:90:0:0|h[Spirit Dust]|h|r", -- [11]
+	"|cffffffff|Hitem:53072:0:0:0:0:0:0:1623076992:90:0:0|h[Deepsea Sagefish]|h|r", -- [12]
 	"|cffffffff|Hitem:72120:0:0:0:0:0:0:0:90:0:0|h[Exotic Leather]|h|r", -- [13]
 	"|cffffffff|Hitem:38426:0:0:0:0:0:0:0:90:0:0|h[Eternium Thread]|h|r", -- [14]
-	"|cffffffff|Hitem:72988:0:0:0:0:0:0:356317696:90:0:0|h[Windwool Cloth]|h|r", -- [15]
+	"|cffffffff|Hitem:82441:0:0:0:0:0:0:376680832:90:0:0|h[Bolt of Windwool Cloth]|h|r", -- [15]
 	"|cffffffff|Hitem:22576:0:0:0:0:0:0:969455744:90:0:0|h[Mote of Mana]|h|r", -- [16]
 	"|cffffffff|Hitem:89112:0:0:0:0:0:0:2097688704:90:0:0|h[Mote of Harmony]|h|r", -- [17]
 	"|cffffffff|Hitem:38577:0:0:0:0:0:0:1704054144:90:0:0|h[Party G.R.E.N.A.D.E.]|h|r", -- [18]
-	"|cffffffff|Hitem:76085:0:0:0:0:0:0:1346685568:90:0:0|h[Flask of the Warm Sun]|h|r", -- [19]
-	"|cffffffff|Hitem:76084:0:0:0:0:0:0:352085888:90:0:0|h[Flask of Spring Blossoms]|h|r", -- [20]
-	"|cffffffff|Hitem:3823:0:0:0:0:0:0:1133950208:90:0:0|h[Lesser Invisibility Potion]|h|r", -- [21]
+	"|cffffffff|Hitem:74700:0:0:0:0:0:0:1137599872:90:0:0|h[Enchant Bracer - Mastery]|h|r", -- [19]
+	"|cffffffff|Hitem:76085:0:0:0:0:0:0:1346685568:90:0:0|h[Flask of the Warm Sun]|h|r", -- [20]
+	"|cffffffff|Hitem:76084:0:0:0:0:0:0:352085888:90:0:0|h[Flask of Spring Blossoms]|h|r", -- [21]
 	"|cffffffff|Hitem:3823:0:0:0:0:0:0:1746219904:90:0:0|h[Lesser Invisibility Potion]|h|r", -- [22]
 	"|cffffffff|Hitem:3823:0:0:0:0:0:0:1420734848:90:0:0|h[Lesser Invisibility Potion]|h|r", -- [23]
-	"|cffffffff|Hitem:22829:0:0:0:0:0:0:1691126912:90:0:0|h[Super Healing Potion]|h|r", -- [24]
-	"|cffffffff|Hitem:76089:0:0:0:0:0:0:2074143488:90:0:0|h[Virmen's Bite]|h|r", -- [25]
-	"|cffffffff|Hitem:76095:0:0:0:0:0:0:121189248:90:0:0|h[Potion of Mogu Power]|h|r", -- [26]
-	"|cffffffff|Hitem:76090:0:0:0:0:0:0:606989824:90:0:0|h[Potion of the Mountains]|h|r", -- [27]
-	"|cffffffff|Hitem:76093:0:0:0:0:0:0:2038979200:90:0:0|h[Potion of the Jade Serpent]|h|r", -- [28]
-	"|cffffffff|Hitem:76098:0:0:0:0:0:0:1469388800:90:0:0|h[Master Mana Potion]|h|r", -- [29]
-	"|cffffffff|Hitem:101618:0:0:0:0:0:0:0:90:0:0|h[Pandaren Treasure Noodle Soup]|h|r", -- [30]
-	"|cffffffff|Hitem:103642:0:0:0:0:0:0:779894786:90:0:0|h[Book of the Ages]|h|r", -- [31]
-	"|cffffffff|Hitem:74648:0:0:0:0:0:0:228443776:90:0:0|h[Sea Mist Rice Noodles]|h|r", -- [32]
-	"|cffffffff|Hitem:87226:0:0:0:0:0:0:1688419457:90:0:0|h[Banquet of the Grill]|h|r", -- [33]
-	"|cffffffff|Hitem:87246:0:0:0:0:0:0:1106161920:90:0:0|h[Banquet of the Brew]|h|r", -- [34]
-	"|cffffffff|Hitem:31778:0:0:0:0:0:0:0:90:0:0|h[Lower City Tabard]|h|r", -- [35]
-	"|cff1eff00|Hitem:20858:0:0:0:0:0:0:2076088320:90:0:0|h[Stone Scarab]|h|r", -- [36]
-	"|cff1eff00|Hitem:20860:0:0:0:0:0:0:1017159552:90:0:0|h[Silver Scarab]|h|r", -- [37]
-	"|cff1eff00|Hitem:20865:0:0:0:0:0:0:66684800:90:0:0|h[Ivory Scarab]|h|r", -- [38]
-	"|cff1eff00|Hitem:20859:0:0:0:0:0:0:66684800:90:0:0|h[Gold Scarab]|h|r", -- [39]
-	"|cff1eff00|Hitem:20862:0:0:0:0:0:0:66684800:90:0:0|h[Crystal Scarab]|h|r", -- [40]
-	"|cff1eff00|Hitem:20863:0:0:0:0:0:0:1429336704:90:0:0|h[Clay Scarab]|h|r", -- [41]
-	"|cff1eff00|Hitem:20861:0:0:0:0:0:0:66684800:90:0:0|h[Bronze Scarab]|h|r", -- [42]
-	"|cff1eff00|Hitem:20864:0:0:0:0:0:0:66684800:90:0:0|h[Bone Scarab]|h|r", -- [43]
-	"|cff1eff00|Hitem:88567:0:0:0:0:0:0:1238028160:90:0:0|h[Ghost Iron Lockbox]|h|r", -- [44]
-	"|cff1eff00|Hitem:34055:0:0:0:0:0:0:585581696:90:0:0|h[Greater Cosmic Essence]|h|r", -- [45]
-	"|cff1eff00|Hitem:74250:0:0:0:0:0:0:0:90:0:0|h[Mysterious Essence]|h|r", -- [46]
-	"|cff1eff00|Hitem:20407:0:0:0:0:0:0:1932921984:90:0:0|h[Twilight Cultist Robe]|h|r", -- [47]
-	"|cff1eff00|Hitem:20406:0:0:0:0:0:0:264542080:90:0:0|h[Twilight Cultist Mantle]|h|r", -- [48]
-	"|cff1eff00|Hitem:20408:0:0:0:0:0:0:1673448320:90:0:0|h[Twilight Cultist Cowl]|h|r", -- [49]
-	"|cff0070dd|Hitem:20888:0:0:0:0:0:0:1038740608:90:0:0|h[Qiraji Ceremonial Ring]|h|r", -- [50]
-	"|cff0070dd|Hitem:20874:0:0:0:0:0:0:1331117824:90:0:0|h[Idol of the Sun]|h|r", -- [51]
-	"|cff0070dd|Hitem:20877:0:0:0:0:0:0:1743237760:90:0:0|h[Idol of the Sage]|h|r", -- [52]
-	"|cff0070dd|Hitem:20882:0:0:0:0:0:0:964090752:90:0:0|h[Idol of War]|h|r", -- [53]
-	"|cff0070dd|Hitem:20879:0:0:0:0:0:0:1331117824:90:0:0|h[Idol of Life]|h|r", -- [54]
-	"|cff0070dd|Hitem:21324:0:0:0:0:0:0:497343360:90:0:0|h[Yellow Qiraji Resonating Crystal]|h|r", -- [55]
-	"|cff0070dd|Hitem:102218:0:0:0:0:0:0:1793871744:90:0:0|h[Spirit of War]|h|r", -- [56]
-	"|cff0070dd|Hitem:80433:0:0:0:0:0:0:1248953472:90:0:0|h[Blood Spirit]|h|r", -- [57]
-	"|cff0070dd|Hitem:22448:0:0:0:0:0:0:803642079:90:0:0|h[Small Prismatic Shard]|h|r", -- [58]
-	"|cff0070dd|Hitem:44452:0:0:0:0:0:0:1280472692:90:0:0|h[Runed Titanium Rod]|h|r", -- [59]
-	"|cff0070dd|Hitem:74252:0:0:0:0:0:0:-98492882:90:0:0|h[Small Ethereal Shard]|h|r", -- [60]
-	"|cff0070dd|Hitem:74247:0:0:0:0:0:0:1714956544:90:0:0|h[Ethereal Shard]|h|r", -- [61]
-	"|cff0070dd|Hitem:72163:0:0:0:0:0:0:1510788224:90:0:0|h[Magnificent Hide]|h|r", -- [62]
-	"|cff0070dd|Hitem:98617:0:0:0:0:0:0:762652160:90:0:0|h[Hardened Magnificent Hide]|h|r", -- [63]
-	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1038361984:90:0:0|h[Spirit of Harmony]|h|r", -- [64]
-	"|cff0070dd|Hitem:86569:0:0:0:0:0:0:949843072:90:0:0|h[Crystal of Insanity]|h|r", -- [65]
-	"|cff0070dd|Hitem:98084:0:0:0:0:0:0:1527983360:90:0:0|h[Ooze-Soaked Shirt]|h|r", -- [66]
-	"|cffa335ee|Hitem:95879:0:0:0:0:0:0:1622558720:90:0:465|h[Helm of the Crackling Vanquisher]|h|r", -- [67]
-	"|cffa335ee|Hitem:99682:0:0:0:0:0:0:752261888:90:0:491|h[Gauntlets of the Cursed Vanquisher]|h|r", -- [68]
-	"|cffa335ee|Hitem:105718:0:0:0:0:0:0:688574720:90:0:0|h[Sha Crystal Fragment]|h|r", -- [69]
-	"|cffa335ee|Hitem:52722:0:0:0:0:0:0:1353613909:90:0:0|h[Maelstrom Crystal]|h|r", -- [70]
-	"|cffa335ee|Hitem:74248:0:0:0:0:0:0:411081675:90:0:0|h[Sha Crystal]|h|r", -- [71]
-	"|cffa335ee|Hitem:65274:0:0:0:0:0:0:0:90:0:0|h[Cloak of Coordination]|h|r", -- [72]
-	"|cffa335ee|Hitem:95625:0:0:0:0:0:0:1732536960:90:161:465|h[Renataki's Soul Charm]|h|r", -- [73]
-	"|cffa335ee|Hitem:95665:0:0:0:0:0:0:619781888:90:0:465|h[Bad Juju]|h|r", -- [74]
-	"|cffa335ee|Hitem:105051:0:0:0:0:0:0:292286848:90:0:491|h[Nazgrim's Burnished Insignia]|h|r", -- [75]
-	"|cffa335ee|Hitem:105109:0:0:0:0:0:0:722746496:90:0:505|h[Thok's Acid-Grooved Tooth]|h|r", -- [76]
-	"|cffa335ee|Hitem:104974:0:0:0:0:0:0:1060995200:90:0:491|h[Assurance of Consequence]|h|r", -- [77]
-	"|cffa335ee|Hitem:95624:4359:0:0:0:0:0:1944782464:90:153:465|h[Sign of the Bloodied God]|h|r", -- [78]
-	"|cffa335ee|Hitem:105126:4359:4643:0:0:0:0:1220491520:90:0:491|h[Kil'ruk's Band of Ascendancy]|h|r", -- [79]
-	"|cffa335ee|Hitem:99042:4433:4643:4643:0:0:0:0:90:0:491|h[Grips of the Shattered Vale]|h|r", -- [80]
-	"|cffa335ee|Hitem:105831:4433:4621:4621:0:0:0:1992021248:90:147:491|h[Siid's Silent Stranglers]|h|r", -- [81]
-	"|cffa335ee|Hitem:104758:4875:0:0:0:0:0:1248822144:90:0:491|h[Laser Burn Bracers]|h|r", -- [82]
-	"|cffa335ee|Hitem:103779:4428:4631:0:0:0:0:1073161984:90:151:491|h[Pandaren Roofsprinters]|h|r", -- [83]
-	"|cffa335ee|Hitem:99044:4880:4555:4555:0:0:0:0:90:154:491|h[Legguards of the Shattered Vale]|h|r", -- [84]
-	"|cffa335ee|Hitem:98613:0:4643:4643:4643:0:0:1157925760:90:0:491|h[Snow Lily Belt]|h|r", -- [85]
-	"|cffa335ee|Hitem:99041:4419:4643:4643:4643:0:0:0:90:146:491|h[Raiment of the Shattered Vale]|h|r", -- [86]
-	"|cffa335ee|Hitem:104705:4419:4643:4555:4631:0:0:1337660544:90:154:491|h[Robes of the Blackened Watcher]|h|r", -- [87]
-	"|cffa335ee|Hitem:99022:4804:4643:4643:0:0:0:0:90:154:491|h[Spaulders of the Shattered Vale]|h|r", -- [88]
-	"|cffa335ee|Hitem:99173:4806:4619:4619:0:0:0:0:90:167:491|h[Mantle of the Shattered Vale]|h|r", -- [89]
-	"|cffa335ee|Hitem:104909:0:0:0:0:0:0:191624192:90:153:491|h[Immerseus' Crystalline Eye]|h|r", -- [90]
-	"|cffa335ee|Hitem:86651:0:4656:4631:0:0:0:0:90:0:445|h[Eternal Blossom Headpiece]|h|r", -- [91]
-	"|cffa335ee|Hitem:101785:0:4660:4623:0:0:-393:2032863510:90:0:491|h[Fire-Chanter Hood of the Fireflash]|h|r", -- [92]
-	"|cffa335ee|Hitem:103728:0:5032:4555:0:0:0:27461632:90:0:491|h[Hood of Blackened Tears]|h|r", -- [93]
-	"|cffa335ee|Hitem:105806:0:0:0:0:0:0:578683648:90:0:491|h[Circlet of the Panser]|h|r", -- [94]
-	"|cffa335ee|Hitem:105806:0:0:0:0:0:0:662479488:90:0:491|h[Circlet of the Panser]|h|r", -- [95]
-	"|cffa335ee|Hitem:102274:0:0:0:0:0:0:779894786:90:0:0|h[Timeless Mail Leggings]|h|r", -- [96]
-	"|cffa335ee|Hitem:102273:0:0:0:0:0:0:239571854:90:0:0|h[Timeless Mail Helm]|h|r", -- [97]
-	"|cffa335ee|Hitem:102281:0:0:0:0:0:0:48533257:90:0:0|h[Timeless Leather Leggings]|h|r", -- [98]
-	"|cffa335ee|Hitem:37883:0:0:0:0:0:0:1757674368:90:0:0|h[Staff of Trickery]|h|r", -- [99]
-	"|cffa335ee|Hitem:104813:4444:4621:0:0:0:0:439834496:90:0:491|h[Halberd of Inner Shadows]|h|r", -- [100]
-	"|cffa335ee|Hitem:104887:0:0:0:0:0:0:1862887040:90:0:491|h[Kor'kron Spire of Supremacy]|h|r", -- [101]
-	"|cffa335ee|Hitem:59463:0:0:0:0:0:0:2035056384:90:0:0|h[Maldo's Sword Cane]|h|r", -- [102]
-	"|cffff8000|Hitem:102248:4424:4643:0:0:0:0:69441664:90:151:493|h[Fen-Yu, Fury of Xuen]|h|r", -- [103]
+	"|cffffffff|Hitem:3823:0:0:0:0:0:0:1133950208:90:0:0|h[Lesser Invisibility Potion]|h|r", -- [24]
+	"|cffffffff|Hitem:22829:0:0:0:0:0:0:1691126912:90:0:0|h[Super Healing Potion]|h|r", -- [25]
+	"|cffffffff|Hitem:76089:0:0:0:0:0:0:2074143488:90:0:0|h[Virmen's Bite]|h|r", -- [26]
+	"|cffffffff|Hitem:76095:0:0:0:0:0:0:121189248:90:0:0|h[Potion of Mogu Power]|h|r", -- [27]
+	"|cffffffff|Hitem:76090:0:0:0:0:0:0:606989824:90:0:0|h[Potion of the Mountains]|h|r", -- [28]
+	"|cffffffff|Hitem:76093:0:0:0:0:0:0:2038979200:90:0:0|h[Potion of the Jade Serpent]|h|r", -- [29]
+	"|cffffffff|Hitem:76098:0:0:0:0:0:0:1469388800:90:0:0|h[Master Mana Potion]|h|r", -- [30]
+	"|cffffffff|Hitem:76097:0:0:0:0:0:0:1257983232:90:0:0|h[Master Healing Potion]|h|r", -- [31]
+	"|cffffffff|Hitem:101617:0:0:0:0:0:0:0:90:0:0|h[Deluxe Noodle Soup]|h|r", -- [32]
+	"|cffffffff|Hitem:103642:0:0:0:0:0:0:779894786:90:0:0|h[Book of the Ages]|h|r", -- [33]
+	"|cffffffff|Hitem:74648:0:0:0:0:0:0:228443776:90:0:0|h[Sea Mist Rice Noodles]|h|r", -- [34]
+	"|cffffffff|Hitem:87246:0:0:0:0:0:0:1106161920:90:0:0|h[Banquet of the Brew]|h|r", -- [35]
+	"|cffffffff|Hitem:31778:0:0:0:0:0:0:0:90:0:0|h[Lower City Tabard]|h|r", -- [36]
+	"|cff1eff00|Hitem:20858:0:0:0:0:0:0:2076088320:90:0:0|h[Stone Scarab]|h|r", -- [37]
+	"|cff1eff00|Hitem:20860:0:0:0:0:0:0:1017159552:90:0:0|h[Silver Scarab]|h|r", -- [38]
+	"|cff1eff00|Hitem:20865:0:0:0:0:0:0:66684800:90:0:0|h[Ivory Scarab]|h|r", -- [39]
+	"|cff1eff00|Hitem:20859:0:0:0:0:0:0:66684800:90:0:0|h[Gold Scarab]|h|r", -- [40]
+	"|cff1eff00|Hitem:20862:0:0:0:0:0:0:66684800:90:0:0|h[Crystal Scarab]|h|r", -- [41]
+	"|cff1eff00|Hitem:20863:0:0:0:0:0:0:1429336704:90:0:0|h[Clay Scarab]|h|r", -- [42]
+	"|cff1eff00|Hitem:20861:0:0:0:0:0:0:66684800:90:0:0|h[Bronze Scarab]|h|r", -- [43]
+	"|cff1eff00|Hitem:20864:0:0:0:0:0:0:66684800:90:0:0|h[Bone Scarab]|h|r", -- [44]
+	"|cff1eff00|Hitem:88567:0:0:0:0:0:0:1238028160:90:0:0|h[Ghost Iron Lockbox]|h|r", -- [45]
+	"|cff1eff00|Hitem:16202:0:0:0:0:0:0:1508511104:90:0:0|h[Lesser Eternal Essence]|h|r", -- [46]
+	"|cff1eff00|Hitem:34055:0:0:0:0:0:0:585581696:90:0:0|h[Greater Cosmic Essence]|h|r", -- [47]
+	"|cff1eff00|Hitem:74250:0:0:0:0:0:0:0:90:0:0|h[Mysterious Essence]|h|r", -- [48]
+	"|cff1eff00|Hitem:20407:0:0:0:0:0:0:1932921984:90:0:0|h[Twilight Cultist Robe]|h|r", -- [49]
+	"|cff1eff00|Hitem:20406:0:0:0:0:0:0:264542080:90:0:0|h[Twilight Cultist Mantle]|h|r", -- [50]
+	"|cff1eff00|Hitem:20408:0:0:0:0:0:0:1673448320:90:0:0|h[Twilight Cultist Cowl]|h|r", -- [51]
+	"|cff0070dd|Hitem:20888:0:0:0:0:0:0:1038740608:90:0:0|h[Qiraji Ceremonial Ring]|h|r", -- [52]
+	"|cff0070dd|Hitem:20874:0:0:0:0:0:0:1331117824:90:0:0|h[Idol of the Sun]|h|r", -- [53]
+	"|cff0070dd|Hitem:20877:0:0:0:0:0:0:1743237760:90:0:0|h[Idol of the Sage]|h|r", -- [54]
+	"|cff0070dd|Hitem:20882:0:0:0:0:0:0:964090752:90:0:0|h[Idol of War]|h|r", -- [55]
+	"|cff0070dd|Hitem:20879:0:0:0:0:0:0:1331117824:90:0:0|h[Idol of Life]|h|r", -- [56]
+	"|cff0070dd|Hitem:21324:0:0:0:0:0:0:497343360:90:0:0|h[Yellow Qiraji Resonating Crystal]|h|r", -- [57]
+	"|cff0070dd|Hitem:43102:0:0:0:0:0:0:113187072:90:0:0|h[Frozen Orb]|h|r", -- [58]
+	"|cff0070dd|Hitem:102218:0:0:0:0:0:0:1793871744:90:0:0|h[Spirit of War]|h|r", -- [59]
+	"|cff0070dd|Hitem:80433:0:0:0:0:0:0:1248953472:90:0:0|h[Blood Spirit]|h|r", -- [60]
+	"|cff0070dd|Hitem:22448:0:0:0:0:0:0:803642079:90:0:0|h[Small Prismatic Shard]|h|r", -- [61]
+	"|cff0070dd|Hitem:22449:0:0:0:0:0:0:302413696:90:0:0|h[Large Prismatic Shard]|h|r", -- [62]
+	"|cff0070dd|Hitem:44452:0:0:0:0:0:0:1280472692:90:0:0|h[Runed Titanium Rod]|h|r", -- [63]
+	"|cff0070dd|Hitem:74252:0:0:0:0:0:0:-98492882:90:0:0|h[Small Ethereal Shard]|h|r", -- [64]
+	"|cff0070dd|Hitem:74247:0:0:0:0:0:0:1714956544:90:0:0|h[Ethereal Shard]|h|r", -- [65]
+	"|cff0070dd|Hitem:72163:0:0:0:0:0:0:1510788224:90:0:0|h[Magnificent Hide]|h|r", -- [66]
+	"|cff0070dd|Hitem:98617:0:0:0:0:0:0:762652160:90:0:0|h[Hardened Magnificent Hide]|h|r", -- [67]
+	"|cff0070dd|Hitem:86569:0:0:0:0:0:0:949843072:90:0:0|h[Crystal of Insanity]|h|r", -- [68]
+	"|cff0070dd|Hitem:98084:0:0:0:0:0:0:1527983360:90:0:0|h[Ooze-Soaked Shirt]|h|r", -- [69]
+	"|cffa335ee|Hitem:95879:0:0:0:0:0:0:1622558720:90:0:465|h[Helm of the Crackling Vanquisher]|h|r", -- [70]
+	"|cffa335ee|Hitem:99682:0:0:0:0:0:0:752261888:90:0:491|h[Gauntlets of the Cursed Vanquisher]|h|r", -- [71]
+	"|cffa335ee|Hitem:105718:0:0:0:0:0:0:688574720:90:0:0|h[Sha Crystal Fragment]|h|r", -- [72]
+	"|cffa335ee|Hitem:52722:0:0:0:0:0:0:1353613909:90:0:0|h[Maelstrom Crystal]|h|r", -- [73]
+	"|cffa335ee|Hitem:74248:0:0:0:0:0:0:411081675:90:0:0|h[Sha Crystal]|h|r", -- [74]
+	"|cffa335ee|Hitem:65274:0:0:0:0:0:0:0:90:0:0|h[Cloak of Coordination]|h|r", -- [75]
+	"|cffa335ee|Hitem:95625:0:0:0:0:0:0:1732536960:90:161:465|h[Renataki's Soul Charm]|h|r", -- [76]
+	"|cffa335ee|Hitem:95665:0:0:0:0:0:0:619781888:90:0:465|h[Bad Juju]|h|r", -- [77]
+	"|cffa335ee|Hitem:105051:0:0:0:0:0:0:292286848:90:0:491|h[Nazgrim's Burnished Insignia]|h|r", -- [78]
+	"|cffa335ee|Hitem:105117:0:0:0:0:0:0:447871488:90:0:491|h[Dysmorphic Samophlange of Discontinuity]|h|r", -- [79]
+	"|cffa335ee|Hitem:104974:0:0:0:0:0:0:1060995200:90:0:491|h[Assurance of Consequence]|h|r", -- [80]
+	"|cffa335ee|Hitem:95624:4359:0:0:0:0:0:1944782464:90:153:465|h[Sign of the Bloodied God]|h|r", -- [81]
+	"|cffa335ee|Hitem:105126:4359:4643:0:0:0:0:1220491520:90:0:491|h[Kil'ruk's Band of Ascendancy]|h|r", -- [82]
+	"|cffa335ee|Hitem:103774:0:0:0:0:0:0:764792320:90:0:491|h[Signet of the Dinomancers]|h|r", -- [83]
+	"|cffa335ee|Hitem:99042:4433:4643:4643:0:0:0:0:90:0:491|h[Grips of the Shattered Vale]|h|r", -- [84]
+	"|cffa335ee|Hitem:105831:4433:4621:4621:0:0:0:1992021248:90:147:491|h[Siid's Silent Stranglers]|h|r", -- [85]
+	"|cffa335ee|Hitem:103830:0:0:0:0:0:0:822935040:90:0:491|h[Gloves of the Golden Protector]|h|r", -- [86]
+	"|cffa335ee|Hitem:104758:4875:0:0:0:0:0:1248822144:90:0:491|h[Laser Burn Bracers]|h|r", -- [87]
+	"|cffa335ee|Hitem:103779:4428:4631:0:0:0:0:1073161984:90:151:491|h[Pandaren Roofsprinters]|h|r", -- [88]
+	"|cffa335ee|Hitem:99044:4880:4555:4555:0:0:0:0:90:154:491|h[Legguards of the Shattered Vale]|h|r", -- [89]
+	"|cffa335ee|Hitem:98613:0:4643:4643:4643:0:0:1157925760:90:0:491|h[Snow Lily Belt]|h|r", -- [90]
+	"|cffa335ee|Hitem:99041:4419:4643:4643:4643:0:0:0:90:146:491|h[Raiment of the Shattered Vale]|h|r", -- [91]
+	"|cffa335ee|Hitem:104705:4419:4643:4555:4631:0:0:1337660544:90:154:491|h[Robes of the Blackened Watcher]|h|r", -- [92]
+	"|cffa335ee|Hitem:99022:4804:4643:4643:0:0:0:0:90:154:491|h[Spaulders of the Shattered Vale]|h|r", -- [93]
+	"|cffa335ee|Hitem:99173:4806:4619:4619:0:0:0:0:90:167:491|h[Mantle of the Shattered Vale]|h|r", -- [94]
+	"|cffa335ee|Hitem:104909:0:0:0:0:0:0:191624192:90:153:491|h[Immerseus' Crystalline Eye]|h|r", -- [95]
+	"|cffa335ee|Hitem:103881:0:0:0:0:0:0:561417856:90:0:491|h[Necklace of Fading Light]|h|r", -- [96]
+	"|cffa335ee|Hitem:86651:0:4656:4631:0:0:0:0:90:0:445|h[Eternal Blossom Headpiece]|h|r", -- [97]
+	"|cffa335ee|Hitem:101785:0:4660:4623:0:0:-393:2032863510:90:0:491|h[Fire-Chanter Hood of the Fireflash]|h|r", -- [98]
+	"|cffa335ee|Hitem:103728:0:5032:4555:0:0:0:27461632:90:0:491|h[Hood of Blackened Tears]|h|r", -- [99]
+	"|cffa335ee|Hitem:105806:0:0:0:0:0:0:578683648:90:0:491|h[Circlet of the Panser]|h|r", -- [100]
+	"|cffa335ee|Hitem:105806:0:0:0:0:0:0:662479488:90:0:491|h[Circlet of the Panser]|h|r", -- [101]
+	"|cffa335ee|Hitem:102274:0:0:0:0:0:0:779894786:90:0:0|h[Timeless Mail Leggings]|h|r", -- [102]
+	"|cffa335ee|Hitem:102273:0:0:0:0:0:0:239571854:90:0:0|h[Timeless Mail Helm]|h|r", -- [103]
+	"|cffa335ee|Hitem:102281:0:0:0:0:0:0:48533257:90:0:0|h[Timeless Leather Leggings]|h|r", -- [104]
+	"|cffa335ee|Hitem:37883:0:0:0:0:0:0:1757674368:90:0:0|h[Staff of Trickery]|h|r", -- [105]
+	"|cffa335ee|Hitem:104813:4444:4621:0:0:0:0:439834496:90:0:491|h[Halberd of Inner Shadows]|h|r", -- [106]
+	"|cffa335ee|Hitem:104887:0:0:0:0:0:0:1862887040:90:0:491|h[Kor'kron Spire of Supremacy]|h|r", -- [107]
+	"|cffa335ee|Hitem:59463:0:0:0:0:0:0:2035056384:90:0:0|h[Maldo's Sword Cane]|h|r", -- [108]
+	"|cffff8000|Hitem:102248:4424:4643:0:0:0:0:69441664:90:151:493|h[Fen-Yu, Fury of Xuen]|h|r", -- [109]
 }
 AmrBankItems = {
 	"|cff0070dd|Hitem:22449:0:0:0:0:0:0:302413696:90:0:0|h[Large Prismatic Shard]|h|r", -- [1]
@@ -244,33 +250,33 @@ AmrBankItems = {
 	"|cffe6cc80|Hitem:44107:0:0:0:0:0:0:0:90:0:0|h[Exquisite Sunderseer Mantle]|h|r", -- [137]
 }
 AmrEquipedItems = {
-	["5"] = "|cffa335ee|Hitem:99172:4419:4619:4619:4619:0:0:0:90:0:505|h[Robes of the Shattered Vale]|h|r",
-	["9"] = "|cffa335ee|Hitem:105787:4877:0:0:0:0:0:887000832:90:145:491|h[Burnseal Bracers]|h|r",
-	["1"] = "|cffa335ee|Hitem:99178:0:5031:4619:0:0:0:0:90:0:505|h[Helm of the Shattered Vale]|h|r",
-	["8"] = "|cffa335ee|Hitem:103760:4429:4619:0:0:0:0:734361984:90:0:491|h[Salt Water Sandals]|h|r",
-	["3"] = "|cffa335ee|Hitem:105798:4806:4619:4602:0:0:0:1270941568:90:145:491|h[Flame Healer's Shoulderguards]|h|r",
-	["2"] = "|cffa335ee|Hitem:103882:0:0:0:0:0:0:476417280:90:167:491|h[Lost Necklace of the Mogu Empress]|h|r",
+	["15"] = "|cffff8000|Hitem:102247:4423:4623:0:0:0:0:553912064:90:0:505|h[Jina-Kang, Kindness of Chi-Ji]|h|r",
 	["19"] = "|cffa335ee|Hitem:69210:0:0:0:0:0:0:0:90:0:0|h[Renowned Guild Tabard]|h|r",
+	["1"] = "|cffa335ee|Hitem:99178:0:5031:4619:0:0:0:0:90:0:505|h[Helm of the Shattered Vale]|h|r",
+	["14"] = "|cffa335ee|Hitem:104727:0:0:0:0:0:0:1359047936:90:0:491|h[Prismatic Prison of Pride]|h|r",
+	["3"] = "|cffa335ee|Hitem:105798:4806:4619:4602:0:0:0:1270941568:90:145:505|h[Flame Healer's Shoulderguards]|h|r",
+	["2"] = "|cffa335ee|Hitem:103882:0:0:0:0:0:0:476417280:90:167:491|h[Lost Necklace of the Mogu Empress]|h|r",
+	["5"] = "|cffa335ee|Hitem:99172:4419:4619:4619:4619:0:0:0:90:0:505|h[Robes of the Shattered Vale]|h|r",
 	["4"] = "|cffa335ee|Hitem:89195:0:0:0:0:0:0:0:90:0:0|h[Artisan Officer's Shirt]|h|r",
 	["7"] = "|cffa335ee|Hitem:99171:4826:4649:4649:0:0:0:1329682176:90:167:505|h[Legwraps of the Shattered Vale]|h|r",
 	["6"] = "|cffa335ee|Hitem:98609:0:4619:4619:4649:0:0:1188184192:90:119:491|h[Pennyroyal Belt]|h|r",
-	["14"] = "|cffa335ee|Hitem:104727:0:0:0:0:0:0:1359047936:90:0:491|h[Prismatic Prison of Pride]|h|r",
-	["15"] = "|cffff8000|Hitem:102247:4423:4623:0:0:0:0:553912064:90:0:505|h[Jina-Kang, Kindness of Chi-Ji]|h|r",
+	["9"] = "|cffa335ee|Hitem:105787:4877:0:0:0:0:0:887000832:90:145:505|h[Burnseal Bracers]|h|r",
+	["8"] = "|cffa335ee|Hitem:103760:4429:4619:0:0:0:0:734361984:90:0:491|h[Salt Water Sandals]|h|r",
 	["16"] = "|cffa335ee|Hitem:103936:4442:4619:0:0:0:0:2014047744:90:167:491|h[Kardris' Scepter]|h|r",
 	["17"] = "|cffa335ee|Hitem:104903:4434:4619:0:0:0:0:321499136:90:162:491|h[Revelations of Y'Shaarj]|h|r",
-	["13"] = "|cffa335ee|Hitem:105117:0:0:0:0:0:0:447871488:90:0:491|h[Dysmorphic Samophlange of Discontinuity]|h|r",
+	["13"] = "|cffa335ee|Hitem:105109:0:0:0:0:0:0:722746496:90:0:505|h[Thok's Acid-Grooved Tooth]|h|r",
 	["12"] = "|cffa335ee|Hitem:103774:4360:4623:0:0:0:0:1575683072:90:162:491|h[Signet of the Dinomancers]|h|r",
 	["11"] = "|cffa335ee|Hitem:103773:4360:4649:0:0:0:0:1548531840:90:0:491|h[Laser-Slice Signet]|h|r",
 	["10"] = "|cffa335ee|Hitem:99185:4433:4619:4637:0:0:0:0:90:0:505|h[Handwraps of the Shattered Vale]|h|r",
 }
-AmrGold = 53531739
+AmrGold = 123486638
 AmrRealmName = "Kilrogg"
 AmrCharacterName = "Tammo"
 AmrIconInfo = {
 }
 AmrCurrencies = {
 	[395] = 4000,
-	[396] = 2475,
+	[396] = 1475,
 	[392] = 463,
 	[81] = 3,
 	[402] = 1,
@@ -313,7 +319,7 @@ AmrGlyphs = {
 }
 AmrTalents = {
 	"113131", -- [1]
-	"113131", -- [2]
+	"113133", -- [2]
 }
 AmrBankItemsAndCounts = {
 	{
@@ -880,6 +886,6 @@ AmrLogData = {
 	["_autoLog"] = {
 		[1136] = "disabled",
 	},
-	["_lastZone"] = "Pandaria",
-	["_lastDiff"] = 0,
+	["_lastZone"] = "Siege of Orgrimmar",
+	["_lastDiff"] = 4,
 }

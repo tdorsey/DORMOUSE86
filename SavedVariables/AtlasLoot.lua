@@ -109,11 +109,11 @@ AtlasLootDB = {
 		["Bedwards - Zul'jin"] = {
 		},
 		["Tammo - Kilrogg"] = {
-			["EquipCompare"] = true,
-			["LastSearch"] = "ordos",
 			["CompareFrame"] = {
 				["lastSortType"] = "EXTRA",
 			},
+			["EquipCompare"] = true,
+			["LastSearch"] = "ordos",
 		},
 	},
 }

@@ -46,11 +46,12 @@ Postal3DB = {
 		["Tammo - Kilrogg"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Kaledra|Kilrogg|Horde", -- [1]
-					"Tammogram|Kilrogg|Horde", -- [2]
-					"Tammow-Norgannon|Kilrogg|Horde", -- [3]
-					"Xrynaem|Kilrogg|Horde", -- [4]
-					"Azhurial|Kilrogg|Horde", -- [5]
+					"Tammogram|Kilrogg|Horde", -- [1]
+					"Agôny|Kilrogg|Horde", -- [2]
+					"Kaledra|Kilrogg|Horde", -- [3]
+					"Tammow-Norgannon|Kilrogg|Horde", -- [4]
+					"Xrynaem|Kilrogg|Horde", -- [5]
+					"Azhurial|Kilrogg|Horde", -- [6]
 				},
 			},
 		},

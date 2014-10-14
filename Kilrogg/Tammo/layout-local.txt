@@ -21,7 +21,7 @@ Y: 0
 W: 832
 H: 447
 Frame: AtlasLootDefaultFrame
-FrameLevel: 20
+FrameLevel: 25
 Anchor: CENTER
 X: -220
 Y: 69

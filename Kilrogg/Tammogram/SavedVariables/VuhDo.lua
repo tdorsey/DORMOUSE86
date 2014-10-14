@@ -1873,14 +1873,14 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["timer"] = true,
 			},
-			["Frozen Blood"] = {
+			["Gusting Bomb"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["isIcon"] = true,
 				["isColor"] = false,
 				["timer"] = true,
 			},
-			["Gusting Bomb"] = {
+			["Dire Fixation"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["isIcon"] = true,
@@ -2195,7 +2195,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["timer"] = true,
 			},
-			["Dire Fixation"] = {
+			["Frozen Blood"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["isIcon"] = true,
@@ -2439,14 +2439,14 @@ VUHDO_PANEL_SETUP = {
 			["xAdjust"] = 0,
 		},
 		["POSITION"] = {
-			["y"] = 34.14581298828125,
-			["x"] = 904.8201293945313,
+			["y"] = 143.5093536376953,
+			["x"] = 698.2986450195313,
 			["orientation"] = "TOPLEFT",
 			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
-			["height"] = 35.00000381469727,
+			["height"] = 143,
 			["growth"] = "TOPLEFT",
-			["width"] = 84.99993133544922,
+			["width"] = 405.0000305175781,
 		},
 		["RAID_ICON"] = {
 			["show"] = true,
@@ -2457,6 +2457,7 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
+			["ordering"] = 0,
 			["sort"] = 1,
 			["groups"] = {
 				1, -- [1]
@@ -2468,7 +2469,6 @@ VUHDO_PANEL_SETUP = {
 				7, -- [7]
 				8, -- [8]
 			},
-			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -5353,9 +5353,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -5363,9 +5363,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -5418,9 +5418,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w5", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 	},
@@ -5447,9 +5447,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -5457,9 +5457,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"IronbarkMO", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -5512,9 +5512,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w5", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 	},
@@ -5559,36 +5559,36 @@ VUHDO_SPEC_LAYOUTS = {
 VUHDO_GROUP_SIZE = 1
 VUHDO_RAID = {
 	["player"] = {
-		["visible"] = 1,
-		["map"] = "Orgrimmar",
-		["targetUnit"] = "target",
+		["number"] = 1,
+		["zone"] = "Shrine of Two Moons",
+		["isVehicle"] = false,
 		["group"] = 1,
-		["classId"] = 24,
+		["class"] = "MAGE",
 		["range"] = true,
 		["unit"] = "player",
-		["number"] = 1,
-		["debuff"] = 0,
-		["healthmax"] = 541861,
-		["baseRange"] = true,
-		["isVehicle"] = false,
-		["sortMaxHp"] = 541861,
-		["class"] = "MAGE",
-		["zone"] = "Orgrimmar",
-		["debuffName"] = "",
-		["threat"] = 0,
-		["powermax"] = 300000,
-		["power"] = 300000,
-		["petUnit"] = "pet",
+		["visible"] = 1,
 		["powertype"] = 0,
+		["healthmax"] = 546005,
+		["targetUnit"] = "target",
+		["baseRange"] = true,
+		["sortMaxHp"] = 546005,
+		["classId"] = 24,
+		["debuffName"] = "",
+		["map"] = "ValeofEternalBlossoms",
+		["connected"] = 1,
+		["fullName"] = "Tammogram",
+		["power"] = 300000,
+		["aggro"] = false,
+		["debuff"] = 0,
 		["threatPerc"] = 0,
 		["isPet"] = false,
-		["fullName"] = "Tammogram",
-		["health"] = 541861,
-		["className"] = "Mage",
-		["connected"] = 1,
-		["aggro"] = false,
-		["role"] = 62,
+		["threat"] = 0,
 		["name"] = "Tammogram",
+		["className"] = "Mage",
+		["powermax"] = 300000,
+		["petUnit"] = "pet",
+		["role"] = 62,
+		["health"] = 546005,
 	},
 }
 VUHDO_INDICATOR_CONFIG = {
@@ -5613,9 +5613,9 @@ VUHDO_INDICATOR_CONFIG = {
 		},
 		["SWIFTMEND_INDICATOR"] = "Swiftmendable",
 		["THREAT_MARK"] = "",
+		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Manabars: Mana only",
 		["BAR_BORDER"] = "Border: Multi + Aggro",
-		["SIDE_RIGHT"] = "",
 		["HEALTH_BAR"] = "Health (generic, class col)",
 		["DAMAGE_FLASH_BAR"] = "",
 		["INCOMING_BAR"] = "",

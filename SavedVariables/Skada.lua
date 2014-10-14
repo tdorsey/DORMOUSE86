@@ -19,14 +19,14 @@ SkadaDB = {
 				{
 					["y"] = 178.3330993652344,
 					["x"] = 0,
-					["mode"] = "DPS",
+					["mode"] = "Healing",
 					["point"] = "BOTTOMRIGHT",
 				}, -- [1]
 			},
 			["report"] = {
 				["number"] = 3,
 				["channel"] = "guild",
-				["mode"] = "Overhealing",
+				["mode"] = "DPS",
 			},
 			["reset"] = {
 				["leave"] = 2,

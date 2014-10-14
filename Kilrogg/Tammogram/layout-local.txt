@@ -4,8 +4,8 @@ FrameLevel: 1
 Anchor: BOTTOM
 X: 55
 Y: 69
-W: 128
-H: 64
+W: 267
+H: 71
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -21,7 +21,7 @@ Y: 128
 W: 600
 H: 530
 Frame: AtlasLootDefaultFrame
-FrameLevel: 91
+FrameLevel: 72
 Anchor: CENTER
 X: 0
 Y: 3
@@ -34,3 +34,10 @@ X: 0
 Y: 0
 W: 648
 H: 420
+Frame: Vd1
+FrameLevel: 2
+Anchor: BOTTOM
+X: -187
+Y: 109
+W: 85
+H: 35

@@ -70,8 +70,8 @@ VER 3 0100000000000014 "VuhDoAuto2" "Spell_Holy_GreaterHeal"
 /use [dead,combat,@mouseover] Rebirth
 END
 VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+R2OH1LR1ET1IH1RM1HR2RM2PH2HR[x]3DT3PM3HR3WM4EM4WM4EM4PM5HR5SH5RM5DM5IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]3DH[x][x][x][x][x]0__[x][x]0__[x][x][x]0__[x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 010000000000000B "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NMouZelVexLarRedVaaKhaHalSta[x]UrjSéKalDecVynMcmQuiLivNymFilToxZugLan[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tam[x][x][x][x][x]Kla[x][x]Sed[x][x][x]Gli[x][x][x][x][x]Cor[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
